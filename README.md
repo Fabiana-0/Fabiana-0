@@ -1,13 +1,9 @@
 # Hi! I'm Fabiana   
 **Cybersecurity Professional** 
 
-Welcome to my GitHub portfolio! I'm Fabiana, a passionate and dedicated Cybersecurity Professional with experience in securing systems, performing vulnerability assessments, and analyzing threats. Below are some of the **Cybersecurity Projects** I've worked on.
-
 ---
 
 ## 🎓 Cybersecurity Projects:
-
-Here are some of the cybersecurity-related projects I've been involved in:
 
 ### [Project Name 1](link-to-your-project)
 - **Description:** A brief overview of what this project is about and what it accomplishes. 
@@ -37,10 +33,9 @@ Here are some of the cybersecurity-related projects I've been involved in:
 
 ## Certifications
 
-- **Certified Ethical Hacker (CEH)**
-- **CompTIA Security+**
+- **Google Cyber Security Certificate: Includes Linux, MySQL, and Python hands-on labs.**
 - **Certified Information Systems Security Professional (CISSP)**
-- [Add any other certifications]
+- [Add any other certifications]                                
 
 ---
 
