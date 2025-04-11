@@ -1,4 +1,4 @@
-# Hi! I'm Fabiana 👋  
+# Hi! I'm Fabiana   
 **Cybersecurity Professional** 
 
 Welcome to my GitHub portfolio! I'm Fabiana, a passionate and dedicated Cybersecurity Professional with experience in securing systems, performing vulnerability assessments, and analyzing threats. Below are some of the **Cybersecurity Projects** I've worked on.
