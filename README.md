@@ -24,7 +24,6 @@
 ## Skills & Technologies
 
 - **Cybersecurity Tools:** Wireshark, Metasploit, Nmap, Burp Suite, Nessus, etc.
-- **Penetration Testing:** Kali Linux, OWASP ZAP, Burp Suite
 - **Vulnerability Assessment & Management:** OpenVAS, Nexpose, Wireshark
 - **Scripting & Automation:** Python, Bash
 - **Security Policies & Frameworks:** ISO 27001, NIST, GDPR
@@ -34,8 +33,8 @@
 ## Certifications
 
 - **Google Cyber Security Certificate: Includes Linux, MySQL, and Python hands-on labs.**
-- **Certified Information Systems Security Professional (CISSP)**
-- [Add any other certifications]                                
+- 
+                              
 
 ---
 
