@@ -24,7 +24,8 @@
 
 - **Cybersecurity Tools:** Wireshark, Metasploit, Nmap, Burp Suite, Nessus, etc.
 - **Vulnerability Assessment & Management:** OpenVAS, Nexpose, Wireshark
-- **Scripting & Automation:** Python, Bash
+- **Bash scripting for basic automation tasks**
+- **Linux file permission management:** Chmod 
 - **Security Policies & Frameworks:** ISO 27001, NIST, GDPR
 
 ---
