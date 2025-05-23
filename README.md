@@ -9,15 +9,14 @@
 - **Description:** A brief overview of what this project is about and what it accomplishes. 
 - **Technologies used:** [List relevant tools and technologies such as Metasploit, Kali Linux, Nmap, Wireshark, etc.]
 - **Key Features:** [Highlight key features of the project, like vulnerability assessments, penetration testing, etc.]
-- **Link to demo (if available):** [Provide a live link or demo]
 
 ### [Project Name 2](link-to-your-project)
 - **Description:** A brief summary of the goals and outcomes of this project.
 - **Technologies used:** [Include the tools and technologies used in the project]
 - **Key Features:** [List any important functionalities]
-- **Link to demo (if applicable):** [Provide a link to a live demo or project site]
 
-(Feel free to keep adding more projects like this!)
+
+(add more projects like this!)
 
 ---
 
@@ -42,9 +41,4 @@
 
 Feel free to reach out:
 - [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
 - [Email](Your Email)
-
----
-
-### License
