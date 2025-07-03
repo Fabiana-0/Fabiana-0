@@ -32,7 +32,7 @@
 
 ## Certifications
 
-- **Google Cyber Security Certificate: Includes Linux, MySQL, and Python hands-on labs.**
+- **Google Cyber Security Certificate (Coursera) - [July, 2025]**
 - 
                               
 
