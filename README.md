@@ -22,8 +22,8 @@
 
 ## Skills & Technologies
 
-- **Cybersecurity Tools:** Wireshark, Metasploit, Nmap, Burp Suite, Nessus, etc.
-- **Vulnerability Assessment & Management:** OpenVAS, Nexpose, Wireshark
+- **Cybersecurity Tools:** Wireshark, Metasploit, Nmap.
+- **Vulnerability Assessment & Management:** OpenVAS,, Wireshark
 - **Bash scripting for basic automation tasks**
 - **Linux file permission management:** Chmod 
 - **Security Policies & Frameworks:** ISO 27001, NIST, GDPR
