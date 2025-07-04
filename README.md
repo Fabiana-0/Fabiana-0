@@ -3,7 +3,7 @@
 
 ---
 
-## Projects:
+## PROJECTS:
 
 ### [Project Name 1](link-to-your-project)
 - **Description:** A brief overview of what this project is about and what it accomplishes. 
@@ -30,7 +30,7 @@
 
 ---
 
-## Certifications
+## CERTIFICATIONS
 
 - **Google Cyber Security Certificate (Coursera) - [July, 2025]**
 - 
