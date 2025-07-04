@@ -3,7 +3,7 @@
 
 ---
 
-## 🎓 Cybersecurity Projects:
+## Projects:
 
 ### [Project Name 1](link-to-your-project)
 - **Description:** A brief overview of what this project is about and what it accomplishes. 
@@ -20,7 +20,7 @@
 
 ---
 
-## Skills & Technologies
+## TECHNICAL SKILLS 
 
 - **Cybersecurity Tools:** Wireshark, Metasploit, Nmap.
 - **Vulnerability Assessment & Management:** OpenVAS,, Wireshark
